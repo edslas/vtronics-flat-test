@@ -1,0 +1,13 @@
+[Program]
+Name=C158 v1.0
+ClearPosition=10.0
+LoadPosition=0.06
+TestPosition=1.035
+FailPosition=9.035
+PassPosition=16.035
+Resistance=5000
+TestLength=4.5
+Tolerence=20
+ISpeed=0.50
+FSpeed=7.125
+Acceleration=60
